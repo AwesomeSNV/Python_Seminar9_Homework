@@ -1,0 +1,2 @@
+isOdd==0.1.2
+python-telegram-bot==13.15
